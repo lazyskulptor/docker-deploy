@@ -2,7 +2,7 @@
   "AWSEBDockerrunVersion": 2,
   "containerDefinitions": [
     {
-      "name": "api",
+      "name": "docker-deploy",
       "image": "015805685790.dkr.ecr.ap-northeast-2.amazonaws.com/docker-deploy",
       "hostname": "api",
       "essential": true,
